@@ -1,0 +1,12 @@
+{
+    "testing_custom_fact": {
+        "global": {
+            "uuid": "234232-234234-wdf2323-234wd434",
+            "node_count": 1
+        },
+        "none": {
+            "ip": "10.123.23.34",
+            "role": "none"
+        }
+    }
+}
