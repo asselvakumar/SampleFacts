@@ -1,4 +1,6 @@
 {
+    // Place this file into /etc/facter/facts.d for puppet to pickup
+    // or for windows, C:\ProgramData\PuppetLabs\facter\facts.d
     "testing_custom_fact": {
         "global": {
             "uuid": "234232-234234-wdf2323-234wd434",
